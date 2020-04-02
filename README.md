@@ -15,7 +15,7 @@ For WeUSThem inc.
 -Updating will let you change name, phone number, or email. old contact info will be deleted and new will be inserted and displayed
 
 
-**Borrowed an existing css file found online along with some snippits of code that are used in this progr
+**Borrowed an existing css file found online along with some snippits of code that are used in this program. Credit goes to the original authors.
 
 
 
